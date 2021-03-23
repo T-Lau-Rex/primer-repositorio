@@ -1,4 +1,5 @@
 print ('¿Hola qué tal?')
+print('Y adios')
 a=10
 b=1
 for i in range(a):
